@@ -1,0 +1,6 @@
+1749097161314----->/------>new req recieved
+1749097164030----->/favicon.ico------>new req recieved
+1749097181646----->/about------>new req recieved
+1749097181723----->/favicon.ico------>new req recieved
+1749097201674----->/figma------>new req recieved
+1749097201761----->/favicon.ico------>new req recieved

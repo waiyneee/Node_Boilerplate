@@ -1,0 +1,26 @@
+Designing a RESTFUL API---------------->
+Its a json based RestApi
+
+
+GET/users ==== Html rendering so this is for browsers
+GET/api/users===list me all my users as a json //for mobile,react,etc etc app
+//i am creating  hybrid server
+
+
+GET/api/users/2==== get the user with id2
+GET/api/users/1==== get the user with id1
+dynamic path paramters /api/users/:id (:id -----this is a variable)
+
+
+
+POST/api/users===create a new user
+
+PATCH/api/users/1=== edit the user with id1 (1==id)
+
+DELETE/api/users/1===delete the user with Id 1
+for above 3 ,we need postman setup
+coz no way to make these req from browsers
+
+//we have no users so we will generate and hardcode the data with 
+//mockarro it creates fake data 
+
