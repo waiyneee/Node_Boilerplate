@@ -13,7 +13,7 @@ dynamic path paramters /api/users/:id (:id -----this is a variable)
 
 
 
-POST/api/users===create a new user
+POST/api/users===create a new user through postman 
 
 PATCH/api/users/1=== edit the user with id1 (1==id)
 
