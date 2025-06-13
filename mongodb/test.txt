@@ -1,0 +1,2 @@
+//schema where will i define a structre and we wil define a model 
+//where i will do crud operation
