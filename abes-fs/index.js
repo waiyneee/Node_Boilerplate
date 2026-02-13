@@ -33,6 +33,16 @@ fs.appendFileSync("./log.txt",`new data inmy abes file`);
 fs.appendFile("./log.txt","hello brother",(err)=>{
     if(err) throw err;
 
-    
+    console.log(`file appended successfully`);
 })
+
+
+fs.copyFileSync("./log.txt","./copy.txt");
+
+fs.copyFile("./logAsync.txt","./copyasync.txt",(err)=>{
+    if(err) throw err;
+
+    console.log('file copied successfully')
+})
+
 
