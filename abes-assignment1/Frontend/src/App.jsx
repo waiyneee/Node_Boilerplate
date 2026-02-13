@@ -5,6 +5,7 @@ import Navbar from "../components/NavBar.jsx";
 import Home from "../pages/Home.jsx";
 import Work from "../pages/Work.jsx";
 
+import "./App.css"
 import {BrowserRouter,Route,Routes} from "react-router-dom"
 function App() {
   
