@@ -46,3 +46,13 @@ fs.copyFile("./logAsync.txt","./copyasync.txt",(err)=>{
 })
 
 
+//deleting file 
+fs.unlinkSync("./copyasync.txt");
+//async wali file delte hogy h 
+
+fs.unlink("./copy.txt",(err)=>{
+    if(err) throw err ;
+    else console.log(`easily deleted asynchronously`);
+    
+
+})
