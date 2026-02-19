@@ -20,3 +20,8 @@ console.log("freeman ",os.freemem());
 console.log("totoal mem",os.totalmem());
 
 
+console.log("uptime",os.uptime());
+
+console.log("directory",os.homedir());
+
+console.log("host name",os.hostname());
