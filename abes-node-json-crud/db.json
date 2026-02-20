@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Striker_Omega",
+      "rank": "Grandmaster",
+      "stats": {
+        "strike_rate": 215.4,
+        "power_level": 92
+      },
+      "active_mission": true
+    },
+    {
+      "id": 2,
+      "username": "Cyber_Googly",
+      "rank": "Elite",
+      "stats": {
+        "strike_rate": 188.2,
+        "power_level": 85
+      },
+      "active_mission": false
+    },
+    {
+      "id": 3,
+      "username": "Neon_Bouncer",
+      "rank": "Veteran",
+      "stats": {
+        "strike_rate": 202.1,
+        "power_level": 89
+      },
+      "active_mission": true
+    },
+    {
+      "id": 1771569605656,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "createdAt": "2026-02-20T06:40:05.656Z"
+    },
+    {
+      "id": 1771569957389,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "createdAt": "2026-02-20T06:45:57.389Z"
+    },
+    {
+      "id": 1771569971885,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "createdAt": "2026-02-20T06:46:11.885Z"
+    }
+  ]
+}
