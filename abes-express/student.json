@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "course": "Computer Science",
+    "email": "aarav.sharma@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "age": 21,
+    "course": "Information Technology",
+    "email": "priya.verma@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Gupta",
+    "age": 19,
+    "course": "Electronics",
+    "email": "rohan.gupta@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Neha Singh",
+    "age": 22,
+    "course": "Mechanical",
+    "email": "neha.singh@example.com"
+  }
+]
